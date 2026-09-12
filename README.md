@@ -24,7 +24,7 @@ Because MIMIC-IV is credentialed-access data, no patient-level data are included
 
 ## Cohort Construction
 
-The initial Sepsis-3 cohort contained 32,899 ICU stays among 25,570 patients**.
+The initial Sepsis-3 cohort contained 32,899 ICU stays among 25,570 patients.
 
 The analysis was restricted to patients with:
 
